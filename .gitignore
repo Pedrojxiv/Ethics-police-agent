@@ -224,3 +224,6 @@ node_modules/
 
 # macOS
 .DS_Store
+
+# Contexto local do Claude Code (não publicar)
+CLAUDE.md
