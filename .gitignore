@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dependências do bot
+node_modules/
+
+# macOS
+.DS_Store
